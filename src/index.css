@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased font-sans;
+    min-height: 100vh;
+  }
+}
+
+.agri-gradient {
+  background: linear-gradient(135deg, #15803d 0%, #166534 100%);
+}
+
+.card-hover {
+  transition: all 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(22, 101, 52, 0.1), 0 8px 10px -6px rgba(22, 101, 52, 0.05);
+}

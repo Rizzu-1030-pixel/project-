@@ -1,0 +1,103 @@
+{
+  "appName": "AgriSmart AI",
+  "appTagline": "Smart Agriculture & Crop Health Assistant",
+  "nav": {
+    "home": "Home",
+    "disease": "Disease Scan",
+    "irrigation": "Smart Irrigation",
+    "cropRec": "Crop Recommendation",
+    "weather": "Weather Advisory",
+    "chatbot": "AI Assistant",
+    "dashboard": "Farmer Dashboard"
+  },
+  "home": {
+    "heroTitle": "Empowering Farmers with Artificial Intelligence",
+    "heroSubtitle": "Diagnose crop diseases instantly, optimize irrigation schedules, choose the most suitable crops, and stay ahead of weather risks in your own language.",
+    "ctaScan": "Scan Leaf Now",
+    "ctaIrrigation": "Calculate Irrigation",
+    "ctaCrop": "Find Best Crop",
+    "statsTitle": "Built for Sustainable Smallholder Agriculture",
+    "statCrops": "22+ Supported Crops",
+    "statDiseases": "12+ Plant Pathologies",
+    "statLanguages": "English, Telugu, Hindi",
+    "statAccuracy": "High Diagnostic Fidelity"
+  },
+  "disease": {
+    "title": "AI Crop Foliage Disease Detection",
+    "subtitle": "Take a photo or upload an image of a crop leaf for instant diagnosis, symptoms, and organic treatment.",
+    "dragDrop": "Drag and drop leaf image, or click to browse",
+    "uploadBtn": "Upload & Diagnose",
+    "analyzing": "Analyzing leaf tissue...",
+    "samplesTitle": "Or click a sample test leaf for instant demo:",
+    "confidence": "AI Confidence",
+    "symptoms": "Visible Symptoms",
+    "prevention": "Preventive Cultural Practices",
+    "organicTreatment": "Safe & Organic Treatments",
+    "chemicalTreatment": "Approved Chemical Notice",
+    "urgency": "Urgency Level",
+    "uncertaintyWarning": "Diagnosis Uncertainty Warning: Foliage features unclear. Please take a clear close-up in natural daylight.",
+    "healthyNotice": "Foliage appears healthy! Maintain balanced irrigation and regular field monitoring."
+  },
+  "irrigation": {
+    "title": "Smart Irrigation Advisor",
+    "subtitle": "Calculate crop water requirements based on soil moisture, stage of growth, and live weather forecasts.",
+    "cropLabel": "Crop Type",
+    "moistureLabel": "Current Soil Moisture (%)",
+    "stageLabel": "Growth Stage",
+    "soilLabel": "Soil Texture",
+    "fieldSizeLabel": "Field Size (Acres)",
+    "useWeatherLabel": "Incorporate Live Weather & Rain Forecast",
+    "simulateBtn": "Load Simulated IoT Soil Sensor Data",
+    "calculateBtn": "Calculate Water Requirement",
+    "waterNeeded": "Water Needed",
+    "waterNotNeeded": "No Irrigation Needed",
+    "waterVolume": "Water Volume Required",
+    "totalVolume": "Total Field Water",
+    "savingTips": "Water Conservation Guidelines"
+  },
+  "crop": {
+    "title": "Crop Recommendation Engine",
+    "subtitle": "Find the highest-yielding crop tailored to your soil nutrients (NPK), pH, temperature, and rainfall.",
+    "nLabel": "Nitrogen (N) kg/ha",
+    "pLabel": "Phosphorus (P) kg/ha",
+    "kLabel": "Potassium (K) kg/ha",
+    "phLabel": "Soil pH",
+    "tempLabel": "Average Temp (°C)",
+    "humidityLabel": "Relative Humidity (%)",
+    "rainfallLabel": "Seasonal Rainfall (mm)",
+    "presetTelangana": "Load Typical Telangana Red Soil",
+    "presetBlack": "Load Black Cotton Soil",
+    "recommendBtn": "Recommend Best Crops",
+    "recommendedCrop": "Top Recommended Crop",
+    "suitability": "Soil & Climate Suitability",
+    "alternatives": "Alternative Compatible Crops"
+  },
+  "weather": {
+    "title": "Weather-Based Farming Advisory",
+    "subtitle": "7-day localized forecast and actionable farming precautions against heat, rain, and disease outbreaks.",
+    "currentTemp": "Current Temperature",
+    "humidity": "Humidity",
+    "wind": "Wind Speed",
+    "precip": "Rainfall",
+    "alertsTitle": "Active Agricultural Warnings",
+    "forecastTitle": "7-Day Farming Outlook",
+    "advisory": "Agronomic Action"
+  },
+  "chatbot": {
+    "title": "AgriSmart AI Assistant",
+    "subtitle": "Ask questions in English, Telugu, or Hindi about crop diseases, pest management, and fertilizer schedules.",
+    "placeholder": "Ask about crop diseases, fertilizers, irrigation...",
+    "send": "Send",
+    "disclaimer": "Safety Notice: Agricultural guidelines follow ICAR/FAO protocols. Always verify chemical sprays with your local Agriculture Extension Officer."
+  },
+  "dashboard": {
+    "title": "Farmer Farm Dashboard",
+    "subtitle": "Holistic view of recent disease scans, soil trends, irrigation schedules, and weather alerts.",
+    "totalScans": "Total Scans",
+    "healthyLeaves": "Healthy Crops",
+    "diseasesFound": "Diseased Samples",
+    "waterSaved": "Estimated Water Saved",
+    "recentActivity": "Recent Crop Scans",
+    "soilTrend": "Soil Moisture & Nitrogen Trend"
+  }
+}
